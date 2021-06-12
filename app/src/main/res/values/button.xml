@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/ic_baseline_home_24</item>
+        <item>@drawable/ic_baseline_search_24</item>
+        <item>@drawable/ic_baseline_location_on_24</item>
+        <item>@drawable/ic_baseline_settings_24</item>
+        <item>@drawable/ic_baseline_contact_support_24</item>
+    </array>
+
+    <array name="colors">
+        <item>@android:color/holo_blue_light</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_red_light</item>
+        <item>@android:color/holo_orange_light</item>
+        <item>@android:color/holo_purple</item>
+
+
+
+    </array>
+
+</resources>
